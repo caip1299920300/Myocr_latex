@@ -4,7 +4,8 @@
 
 ## 一、权重文件
 
-**百度网盘：**链接：https://pan.baidu.com/s/1BMCPBacFaKoIvDeAXMxygA 提取码：cffv
+百度网盘 ：链接：https://pan.baidu.com/s/1BMCPBacFaKoIvDeAXMxygA 提取码：cffv
+
 
 > 将下载的文件解压，复制到model\checkpoints\目录中
 
