@@ -1,7 +1,6 @@
 # Myocr_latex
+
 用于识别公式转为LATEX编码
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 ## 一、权重文件
 
@@ -9,7 +8,9 @@
 
 > 将下载的文件解压，复制到model\checkpoints\目录中
 
+
 ![image-20230308143321219](./img/image-20230308143321219.png)
+
 
 ## 二、环境配置
 
@@ -40,7 +41,3 @@ $f(x)=\sum_{i=1}^{n}(n+1)n$
 ## 五、参考
 
 - https://github.com/lukas-blecher/LaTeX-OCR
-=======
->>>>>>> a9f09a14d0a2faa4807ca929499f293c7a56853e
-=======
->>>>>>> a9f09a14d0a2faa4807ca929499f293c7a56853e
