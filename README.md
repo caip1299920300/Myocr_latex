@@ -36,8 +36,6 @@ python main.py
 $f(x)=\sum_{i=1}^{n}(n+1)n$
 ```
 
-即：$f(x)=\sum_{i=1}^{n}(n+1)n$
-
 ## 五、参考
 
 - https://github.com/lukas-blecher/LaTeX-OCR
